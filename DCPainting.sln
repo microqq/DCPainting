@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DCPainting", "DCPainting\DCPainting.vcxproj", "{EDE96604-854D-49AE-A602-3B0AD697F804}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ColorSpace", "ColorSpace\ColorSpace.vcxproj", "{270D0990-BE70-41A8-A2F3-8B17F41F70A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE96604-854D-49AE-A602-3B0AD697F804}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EDE96604-854D-49AE-A602-3B0AD697F804}.Debug|Win32.Build.0 = Debug|Win32
+		{EDE96604-854D-49AE-A602-3B0AD697F804}.Release|Win32.ActiveCfg = Release|Win32
+		{EDE96604-854D-49AE-A602-3B0AD697F804}.Release|Win32.Build.0 = Release|Win32
+		{270D0990-BE70-41A8-A2F3-8B17F41F70A6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{270D0990-BE70-41A8-A2F3-8B17F41F70A6}.Debug|Win32.Build.0 = Debug|Win32
+		{270D0990-BE70-41A8-A2F3-8B17F41F70A6}.Release|Win32.ActiveCfg = Release|Win32
+		{270D0990-BE70-41A8-A2F3-8B17F41F70A6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
